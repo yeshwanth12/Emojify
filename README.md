@@ -25,17 +25,29 @@ The dataset (X, Y):
 
 # Results
 Expected emoji:😄 prediction: she got me a nice present	❤️
+
 Expected emoji:😞 prediction: work is hard	😄
+
 Expected emoji:😞 prediction: This girl is messing with me	❤️
+
 Expected emoji:😞 prediction: work is horrible	😄
+
 Expected emoji:🍴 prediction: any suggestions for dinner	😄
+
 Expected emoji:❤️ prediction: I love taking breaks	😞
+
 Expected emoji:😄 prediction: you brighten my day	❤️
+
 Expected emoji:😞 prediction: she is a bully	❤️
+
 Expected emoji:😄 prediction: will you be my valentine	❤️
+
 Expected emoji:❤️ prediction: I love you to the stars and back	😄
+
 Expected emoji:😄 prediction: What you did was awesome	😞
-Not Bad!
+
+Test accuracy =  80.35%
+Not Bad! Can be improved with more training examples
 
 # References
  - [Woebot](http://woebot.io)
